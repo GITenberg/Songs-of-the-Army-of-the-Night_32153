@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35709
     wikipedia: http://en.wikipedia.org/wiki/Francis_Adams_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32153#Songs-of-the-Army-of-the-Night
 gutenberg_issued: '2010-04-27'
 gutenberg_type: Text
 identifiers:
