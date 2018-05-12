@@ -1,0 +1,28 @@
+_repo: Songs-of-the-Army-of-the-Night_32153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Francis William Lauderdale
+    alias: Adams, Francis W. L. (Francis William Lauderdale)
+    birthdate: 1862
+    deathdate: 1893
+    gutenberg_agent_id: '35709'
+    url: http://www.gutenberg.org/2009/agents/35709
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Adams_%28writer%29
+description: ''
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Working class -- Poetry'
+title: Songs of the Army of the Night
+url: http://www.gutenberg.org/ebooks/32153
